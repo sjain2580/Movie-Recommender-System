@@ -1,5 +1,5 @@
 # Movie Recommendation System
-![Movie Recommendation System](./assets/movie_recommendation.png)
+![Movie Recommendation System](./movie_recommendation.png)
 
 ## Overview
 This repository features a **Content-Based Movie Recommendation System** designed to provide personalized movie suggestions. Leveraging natural language processing and machine learning techniques, the system analyzes movie content to find and recommend films similar to a user's preferences. 
