@@ -62,7 +62,7 @@ To view this project locally on your machine:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/sjain2580/oaqjp-final-project-emb-ai.git](https://github.com/sjain2580/oaqjp-final-project-emb-ai.git)
+    git clone https://github.com/sjain2580/Movie-Recommender-System.git
     ```
 
 2.  **Navigate to the Project Directory:**
