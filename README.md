@@ -67,7 +67,7 @@ To view this project locally on your machine:
 
 2.  **Navigate to the Project Directory:**
     ```bash
-    cd oaqjp-final-project-emb-ai
+    cd Movie-Recommender-System
     ```
 
 3.  **Create a Virtual Environment (Recommended):**
@@ -90,7 +90,7 @@ To view this project locally on your machine:
     ```
 
 6.  **Access the Application:**
-    Your default web browser should automatically open to the Streamlit application (usually at `http://localhost:8501`). If not, copy the URL provided in your terminal.
+    Your default web browser should automatically open to the Streamlit application. If not, copy the URL provided in your terminal.
 
 ## Live Deployment
 Check the live app here - https://25866n7q-5000.inc1.devtunnels.ms/
