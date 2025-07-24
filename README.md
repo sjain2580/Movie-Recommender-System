@@ -62,12 +62,12 @@ To view this project locally on your machine:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/sjain2580/oaqjp-final-project-emb-ai.git](https://github.com/sjain2580/oaqjp-final-project-emb-ai.git)
+    git clone https://github.com/sjain2580/Movie-Recommender-System.git
     ```
 
 2.  **Navigate to the Project Directory:**
     ```bash
-    cd oaqjp-final-project-emb-ai
+    cd Movie-Recommender-System
     ```
 
 3.  **Create a Virtual Environment (Recommended):**
@@ -81,7 +81,7 @@ To view this project locally on your machine:
 4.  **Install Dependencies:**
     Make sure you have all the necessary libraries installed.
     ```bash
-    pip install -r requirements.txt
+    pip freeze > requirements.txt
     ```
 
 5.  **Run the Streamlit Application:**
@@ -90,7 +90,7 @@ To view this project locally on your machine:
     ```
 
 6.  **Access the Application:**
-    Your default web browser should automatically open to the Streamlit application (usually at `http://localhost:8501`). If not, copy the URL provided in your terminal.
+    Your default web browser should automatically open to the Streamlit application. If not, copy the URL provided in your terminal.
 
 ## Live Deployment
 Check the live app here - https://25866n7q-5000.inc1.devtunnels.ms/
