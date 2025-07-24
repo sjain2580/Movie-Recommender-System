@@ -81,7 +81,7 @@ To view this project locally on your machine:
 4.  **Install Dependencies:**
     Make sure you have all the necessary libraries installed.
     ```bash
-    pip install -r requirements.txt
+    pip freeze > requirements.txt
     ```
 
 5.  **Run the Streamlit Application:**
