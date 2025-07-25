@@ -78,18 +78,23 @@ To view this project locally on your machine:
         * **Windows:** `.\venv\Scripts\activate`
         * **macOS/Linux:** `source venv/bin/activate`
 
-4.  **Install Dependencies:**
+4.  **Run the Jupyter notebook:**
     Make sure you have all the necessary libraries installed.
     ```bash
-    pip freeze > requirements.txt
+    pip install jupyter
+    
+    jupyter notebook
     ```
+    Once the jupyter notebook opens, run it.
+    It will create the necessary .pkl files.
+    **In case of error, download the necessary librarires and run again.**
 
-5.  **Run the Streamlit Application:**
+6.  **Run the Streamlit Application:**
     ```bash
     streamlit run app.py
     ```
 
-6.  **Access the Application:**
+7.  **Access the Application:**
     Your default web browser should automatically open to the Streamlit application. If not, copy the URL provided in your terminal.
 
 ## Live Deployment
