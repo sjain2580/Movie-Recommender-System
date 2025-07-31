@@ -98,7 +98,7 @@ To view this project locally on your machine:
     Your default web browser should automatically open to the Streamlit application. If not, copy the URL provided in your terminal.
 
 ## Live Deployment
-Check the live app here - https://25866n7q-5000.inc1.devtunnels.ms/
+Check the live app here - https://movie-recommenda-system.streamlit.app/
 
 ## Contributors
 **https://github.com/sjain2580**
